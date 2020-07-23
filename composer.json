@@ -1,0 +1,12 @@
+{
+    "name": "nfragnet/doctolib-exercice",
+    "autoload": {
+        "psr-4": { "Nfragnet\\Doctolib\\": "src/Doctolib" }
+    },
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.3"
+    }
+}
